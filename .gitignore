@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/graph_project.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/vcs.xml
+venv/
+amazon-meta.txt
+database.csv
+__pycache__/
+figures/
+saved_adj_matrices/adj1_full.csv
+saved_adj_matrices/adj2_full.csv
