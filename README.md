@@ -1,4 +1,7 @@
 # Amazon-Meta Parser & Graph Theory Final Project :atom:
+
+## Shared project source: https://github.com/mumtazcem/Amazon-meta-graph
+
 Marcin Damek, M.Cem Eriş, Mehmet Sezer, Recep O. Yıldız<br>
 {damek20, erismu, sezer20, yildizr}@itu.edu.tr
 
